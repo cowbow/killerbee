@@ -1,0 +1,11 @@
+.nav-bar {
+    background: #3653d3;
+    width: 100%;
+    height: 50px    ; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
