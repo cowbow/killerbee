@@ -14,7 +14,3 @@ def  f(x):
             result=trapezoidal(lower_limit,upper_limit,sub_interval)
             print("Integration result by trapezoidal method is:%0,6f"%(result))
 
-
-n=4
-square=n*N
-print(square)
